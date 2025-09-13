@@ -1,4 +1,4 @@
-# Install script for directory: D:/Workstudio/Tools/espressif/v5.3.3/v5.3.3/esp-idf/components/esp_vfs_console
+# Install script for directory: D:/Workstudio/Tools/espressif/v5.3.3/esp-idf/components/esp_vfs_console
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

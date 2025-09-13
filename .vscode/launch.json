@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/86396/Desktop/workspace/SmartWatch/Code/Smart_watch/main",
-      "program": "c:/Users/86396/Desktop/workspace/SmartWatch/Code/Smart_watch/main/build/Debug/outDebug",
+      "cwd": "c:/Users/86396/Desktop/workspace/SmartWatch/Code",
+      "program": "c:/Users/86396/Desktop/workspace/SmartWatch/Code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
